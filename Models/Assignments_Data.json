@@ -1,0 +1,50 @@
+{
+    "AS_ID_1": {
+        "Title": "Activity 1",
+        "Subject": "Math",
+        "Due_Date": "2026-06-04",
+        "Status": "In Progress",
+        "Priority": "Medium"
+    },
+    "AS_ID_2": {
+        "Title": "Activity 2",
+        "Subject": "Math",
+        "Due_Date": "2026-06-07",
+        "Status": "Not Started",
+        "Priority": "High"
+    },
+    "AS_ID_3": {
+        "Title": "Activity 3",
+        "Subject": "Math",
+        "Due_Date": "2026-06-04",
+        "Status": "Completed",
+        "Priority": "Low",
+        "Submission_Link": "Submitted successfully",
+        "Submitted_At": "2026-06-03 17:01:52"
+    },
+    "AS_ID_4": {
+        "Title": "Activity 4",
+        "Subject": "Math",
+        "Due_Date": "2026-06-01",
+        "Status": "Completed",
+        "Priority": "None",
+        "Submission_Link": "Submitted successfully",
+        "Submitted_At": "2026-06-03 16:59:37"
+    },
+    "AS_ID_5": {
+        "Title": "Activity 5",
+        "Subject": "Math",
+        "Due_Date": "2026-06-01",
+        "Status": "None",
+        "Priority": "None"
+    },
+    "AS_ID_6": {
+        "Title": "Update Testing",
+        "Subject": "Science",
+        "Due_Date": "2026-06-04",
+        "Status": "None",
+        "Priority": "None",
+        "Submission_Link": "",
+        "Submitted_At": ""
+    }
+}
